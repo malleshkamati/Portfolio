@@ -22,10 +22,7 @@ export default function About() {
             </p>
 
             <div className="grid grid-cols-2 gap-6 mt-8">
-              <div className="text-center">
-                <div className="text-3xl font-bold gradient-text">2+</div>
-                <div className="text-gray-600">Years Experience</div>
-              </div>
+              
               <div className="text-center">
                 <div className="text-3xl font-bold gradient-text">10+</div>
                 <div className="text-gray-600">Projects Completed</div>
